@@ -18,5 +18,8 @@
     "jquery-migrate": "^3.0.1",
     "jquery.easing": "^1.4.1",
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "moment": "^2.21.0"
   }
 }
